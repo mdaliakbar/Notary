@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, #2c3e50, #2980b9);
+}
+
+
+.displayBox{
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.scroll-Box{
+    overflow-y: auto;
+    height: 500px;
+    float: left;
+    padding: 1rem;
+}
