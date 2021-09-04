@@ -14,3 +14,7 @@ body{
     float: left;
     padding: 1rem;
 }
+
+img{
+    width: 75%;
+}
